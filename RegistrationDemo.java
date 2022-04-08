@@ -9,7 +9,7 @@ public class RegistrationDemo {
 
 	public static void main(String[] args) {
 		
-		System.setProperty("webdriver.chrome.driver", "E:\\\\Mphasis\\\\selenium-java-3.5.0\\\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "E:\\\\selenium-java-3.5.0\\\\chromedriver.exe");
 
 		WebDriver driver = new ChromeDriver();
 		
